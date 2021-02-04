@@ -5,7 +5,7 @@ https://seemoregold.github.io/Password-Generator/
 
 ## Getting Started
 
-Using a default browser like Google Chrome, click the 'Generate Password' button to bring up a series of prompts and confirms to establish the criteria for the password. Once the criteria is selected, a random password will display on the screen.
+Open the app using a default browser like Google Chrome, click the 'Generate Password' button to bring up a series of prompts and confirms to establish the criteria for the password. Once the criteria is selected, a random password will display on the screen.
 
 
 ## Built With
@@ -14,7 +14,7 @@ Using a default browser like Google Chrome, click the 'Generate Password' button
 * JavaScript
 
 ## Screenshots
-
+[Screen shot of about me page](assets/screenShot.png)
 
 ## Credits
 

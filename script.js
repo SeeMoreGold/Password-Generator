@@ -91,7 +91,7 @@ var upperCasedCharacters = [
 // Write password to the #password input
 function generatePassword() {
 // These are the prompts for the criteria
-  var passLength = parseInt(prompt("Choose a desired length for your password. Must be at least 8 and not more than 128 characters."));
+  var passLength = parseInt(prompt("Choose a desired length for your password. Type a number between 8 and 128."));
   if(passLength<8){
     alert("Please add password length between 8 and 128");
     return;
